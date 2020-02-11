@@ -1,1 +1,1 @@
-# wassell-react-fullstack
+# React Blog using the React Router Component
